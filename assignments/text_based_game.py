@@ -46,7 +46,7 @@ neighborhoods = {
         GROUND: ['Levain Cookies', 'Slice from Freddy and Peppers']},
     'Central Park': {
         DESC: 'Truly an amazing experience not far from the hustle and bustle of the city. Get lost on the trails and enjoy a pretzel.',
-        WEST: 'Upper West side',
+        WEST: 'Upper West Side',
         GROUND: ['Pretzel', 'MET ticket']},
     'East Village': {
         DESC: 'Funky fun place with lots of cute shops and lovely treats.',
